@@ -100,10 +100,10 @@ You now have a fully functional Streamlit environment running inside Docker! ðŸš
 ![Home Page](image.png)  
 *Home Page showcasing the app's introduction.*  
 
-![Data Explorer](image1.png)  
+![Data Explorer](image-1.png)  
 *Data Explorer allowing CSV uploads.*  
 
-![Visualization Page](image2.png)  
+![Visualization Page](image-2.png)  
 *Interactive visualization with dynamic charts.*  
 
 ðŸ’¡ **Next Steps:**  
