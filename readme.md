@@ -97,13 +97,13 @@ docker run -p 8501:8501 streamlit-app
 You now have a fully functional Streamlit environment running inside Docker! 🚀  
 
 🖥️ **Application Interface Previews**  
-![Home Page](Images/image1.png)  
+![Home Page](Images/image.png)  
 *Home Page showcasing the app's introduction.*  
 
-![Data Explorer](Images/image2.png)  
+![Data Explorer](Images/image1.png)  
 *Data Explorer allowing CSV uploads.*  
 
-![Visualization Page](Images/image3.png)  
+![Visualization Page](Images/image2.png)  
 *Interactive visualization with dynamic charts.*  
 
 💡 **Next Steps:**  
