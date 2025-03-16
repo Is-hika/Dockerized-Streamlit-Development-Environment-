@@ -16,14 +16,13 @@ project_root/
 │   └── config.toml
 │── src/
 │   └── main.py
+│── image1.png
+│── image2.png
+│── image3.png
 │── Dockerfile
 │── requirements.txt
 │── README.md
-│── Images/
-│   ├── image1.png
-│   ├── image2.png
-│   └── image3.png
-```
+
 
 📜 File Explanations  
 1️⃣ `.streamlit/config.toml`  
